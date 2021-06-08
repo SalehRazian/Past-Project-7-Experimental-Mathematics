@@ -1,0 +1,1 @@
+Here I have my experiments with different math functions; creating different models to see what will happen. 
